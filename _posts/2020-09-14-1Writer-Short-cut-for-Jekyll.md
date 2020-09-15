@@ -1,7 +1,14 @@
 ---
 layout: post
 title:  "1 Writer shortcut for Jekyll"
-date: 2020-09-14 22:00:00 +0800
+#date: 2020-09-14 22:00:00 +0800
+#title: "Welcome to Jekyll!"
+date: 2020-04-18T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Jekyll
+  - update
 ---
 
 ## My workflow
