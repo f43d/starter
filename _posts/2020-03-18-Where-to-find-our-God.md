@@ -1,14 +1,13 @@
 ---
-title:  "Where do you find our God"
+title: "Where do you find our God"
 date: 2020-03-18T15:34:30+08:00
-header:
-  image: /assets/images/dragula.jpg
-
 categories:
   - blog
 tags:
   - Jekyll
   - update
+header:
+    image: /assets/images/dragula.jpg
 
 ---
 We face danger, we face evil, which stands at the gate of our most holy sanctuary.
