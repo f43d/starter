@@ -6,8 +6,8 @@ categories:
 tags:
   - Jekyll
   - update
-header:
-    image: /assets/images/dragula.jpg
+#header:
+    #image: /assets/images/dragula.jpg
 
 ---
 We face danger, we face evil, which stands at the gate of our most holy sanctuary.
