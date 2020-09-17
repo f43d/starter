@@ -6,7 +6,7 @@ header:
 
 categories:
   - blog
-tags:\
+tags:
   - Jekyll
   - update
 
