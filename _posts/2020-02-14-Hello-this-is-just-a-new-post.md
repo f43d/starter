@@ -36,3 +36,16 @@ You align with it.
 So, then, where do we find our God? Sisters, I will tell you.
 
 When you stand in the deepest pit, alone, without hope or help, and yet still know right from wrong When there is only darkness and despair and yet you feel humming in your blood, the difference between good and bad When you are beyond rescue or reward or judgment .
+And you still look evil in the face and say, "No! "This far but no further.
+
+"No!" Whose voice is that who is with you in that darkness?
+
+Whose voice keeps you to the path?
+
+Darkness and evil may seem compelling to us all, and I believe it is because, in their presence, we can feel God in our hearts.
+
+No, he will not reach down to save us.
+
+We will rise to meet him.
+
+Let us pray.
