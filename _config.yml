@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Michael the Chef"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "amateur cook <br> dabbler in programming."
+  bio    : "amateur cook <br> dabbler in coding <br>professional procrastinator"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
